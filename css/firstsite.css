@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+.hero-sec {
+    background: url("../images/52a16e5dc54e310b4baaaa2e334cd93d.webp");
+    background-size: cover;
+    line-height: 300px;
+}
+
+#visit-lag {
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 10px 5px;
+    background: #EFB0C9;
+}
